@@ -1,6 +1,7 @@
-layout: page
-title: "ABOUT"
+layout: about
 permalink: /about/
+title: A little bit about me.
+tags: about
 
 About me! 
 
